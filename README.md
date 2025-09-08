@@ -34,8 +34,8 @@ open index.html
 - ☁️ Save QR codes to cloud
 
 # 📸 Preview
-![GenQR Preview]![ss1](https://github.com/user-attachments/assets/6d8c71d4-3726-4237-b271-82db94ddb988)
-![GenQR Preview]![ss2](https://github.com/user-attachments/assets/d49d0cf9-331a-45e9-85a8-e4806f1fa5ec)
+[GenQR Preview]![ss1](https://github.com/user-attachments/assets/6d8c71d4-3726-4237-b271-82db94ddb988)
+[GenQR Preview]![ss2](https://github.com/user-attachments/assets/d49d0cf9-331a-45e9-85a8-e4806f1fa5ec)
 
 
 
