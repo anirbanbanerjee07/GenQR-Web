@@ -72,5 +72,7 @@ Create a file named `vercel.json` in your project root:
 
 # 📸 Preview on mobile
 **Select Pixel**![mss1](https://github.com/user-attachments/assets/aec0d9a9-8e1c-4c1c-8107-d2f3237d956c)
+
 **Generate QR code**![mss2](https://github.com/user-attachments/assets/6a5425f0-1996-4631-b0a0-a09b8ab39b60)
+
 **Save QR code**![mss3](https://github.com/user-attachments/assets/8509b638-cb5f-4b09-81ea-2fdce9e50e6c)
