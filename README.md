@@ -28,7 +28,7 @@ cd genqr
 open index.html
 ``` 
 
-# 📜 1. Redirect Handling Script
+## 📜 1. Redirect Handling Script
 Put this inside your `index.html` before the closing `</body>` tag:  
 
 ```html
@@ -52,7 +52,7 @@ Put this inside your `index.html` before the closing `</body>` tag:
 </script>
 ```
 
-# 📜 2. Vercel Config
+## 📜 2. Vercel Config
 Create a file named `vercel.json` in your project root:
 
 ```json
@@ -61,17 +61,17 @@ Create a file named `vercel.json` in your project root:
 }
 ```
 
-# 💡 Future Improvements
+## 💡 Future Improvements
 - 🌈 Add themes & color customization
 - 📷 Upload logo inside QR codes
 - ☁️ Save QR codes to cloud
 
 
-# 📸 Preview on window
+## 📸 Preview on window
 **Generate QR code**![ss1](https://github.com/user-attachments/assets/6d8c71d4-3726-4237-b271-82db94ddb988)
 **Save QR code**![ss2](https://github.com/user-attachments/assets/d49d0cf9-331a-45e9-85a8-e4806f1fa5ec)
 
-# 📸 Preview on mobile
+## 📸 Preview on mobile
 **Select Pixel**![mss1](https://github.com/user-attachments/assets/aec0d9a9-8e1c-4c1c-8107-d2f3237d956c)
 
 **Generate QR code**![mss2](https://github.com/user-attachments/assets/6a5425f0-1996-4631-b0a0-a09b8ab39b60)
@@ -83,12 +83,12 @@ Create a file named `vercel.json` in your project root:
 Deploy **GenQR** seamlessly on [GenQR Web](https://gen-qr-web.vercel.app/) 🚀.
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! 
 🙌 For major changes, please open an issue first.
 
 
-# 📜 License
+## 📜 License
 MIT License © 2025
 
 
