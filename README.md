@@ -15,7 +15,7 @@ Fast ⚡ | Lightweight 🎯 | Easy-to-use ✨
 ---
 
 ## 🛠️ Tech Stack
-- 🖥️ **Frontend:** HTML, CSS, JavaScript  
+- 🖥️ **Frontend:** HTML, JavaScript  
 - 🎨 Simple UI with responsive design  
 
 ---
