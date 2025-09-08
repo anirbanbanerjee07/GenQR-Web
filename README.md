@@ -84,8 +84,8 @@ Deploy **GenQR** seamlessly on [GenQR Web](https://gen-qr-web.vercel.app/) 🚀.
 
 
 # 🤝 Contributing
-Pull requests are welcome! 🙌
-For major changes, please open an issue first.
+Pull requests are welcome! 
+🙌 For major changes, please open an issue first.
 
 
 # 📜 License
