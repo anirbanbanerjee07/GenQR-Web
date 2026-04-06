@@ -82,6 +82,8 @@ Create a file named `vercel.json` in your project root:
 ## ⚙️ Deployment on Vercel  
 Deploy **GenQR** seamlessly on [GenQR Web](https://gen-qr-web.vercel.app/) 🚀.
 
+## ⚙️ Mobile App 
+Install **GenQR.apk** seamlessly on [GenQR app](GenQR.apk) 🚀.
 
 ## 🤝 Contributing
 Pull requests are welcome! 
